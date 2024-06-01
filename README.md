@@ -1,2 +1,3 @@
-**this is simple Crud application, crested using java,MYSQL and netbeans ide** :)
+**this is simple Crud application, created using java,MYSQL Database and netbeans ide**
+
 
